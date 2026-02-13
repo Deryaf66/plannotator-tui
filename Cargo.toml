@@ -35,3 +35,4 @@ description = "Annotate Markdown in the terminal: select, comment, looks-good, d
 # clarify the control flow
 # drop an unused branch
 # clarify the control flow
+# match the style used in the rest of the module
